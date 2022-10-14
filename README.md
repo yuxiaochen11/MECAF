@@ -4,10 +4,15 @@ Differential abundance test
 
 
 In the file 'Simulation_1.R', we calculate the type I error and power of two compared groups with different covariance matrix.
+
 In the file 'Simulation_2.R', we calculate the type I error and power of two compared groups with same banded covariance matrix.
+
 In the file 'Simulation_3.R', we calculate the type I error and power of two compared groups with same sparse covariance matrix.
+
 In the file 'Real data_1.R', we make differencial abundances analysis of the CDI microbiome study.
+
 In the file 'Real data_2.R', we calculate the type I error of two groups by procanova.
+
 In the file 'Real data_3.R', we make differencial abundances analysis in female and male mice of the murine microbiome study.
 
 
